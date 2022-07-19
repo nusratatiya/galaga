@@ -10,6 +10,7 @@ The game uses turtle agents as breeds for the playable user, lasers, and enemies
 
 To begin gameplay, a level must be selected, of which are ordered based on difficulty. Once a level is selected, the user should select the ‘setup’ button to generate the playing plane, along with all relevant turtle agents and patch formations. Then click the 'go' button to officially begin the game. 
 
+Detailed information provided in the info tab of the file in the Netlogo IDE
 
 ## Getting Started
 
@@ -34,7 +35,3 @@ Gameplay:
 ## Authors
 
 Nusrat Atiya and Noe Zambrano Romero
-
-
-
-
